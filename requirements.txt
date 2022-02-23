@@ -1,5 +1,5 @@
 appnope==0.1.2
-autopep8==1.5.7
+autopep8==1.6.0
 backcall==0.2.0
 bleak==0.12.1
 decorator==5.1.1
