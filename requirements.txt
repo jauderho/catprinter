@@ -12,7 +12,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 prompt-toolkit==3.0.28
 ptyprocess==0.7.0
-pycodestyle==2.7.0
+pycodestyle==2.8.0
 Pygments==2.9.0
 pyobjc-core==7.3; sys_platform == 'darwin'
 pyobjc-framework-Cocoa==7.3; sys_platform == 'darwin'
