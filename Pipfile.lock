@@ -203,13 +203,13 @@
         },
         "pyobjc-framework-corebluetooth": {
             "hashes": [
-                "sha256:07d60a0a36da1cbde20ac14771318e9eb3236609419b0d10b280f2e49b866092",
-                "sha256:3abe3883288da3989be1d877078ccd4ece2776e40f9fb52686855266ac739c05",
-                "sha256:eeae1555eb85bfee06ee2cfb312dbbaf42f51fc24958b3747657212d95b825f5",
-                "sha256:f7be2e86a72764a305403b5ae2b96a4172db1795d4bd568e66d9ebdda3b3fcae"
+                "sha256:19b42a2020ee36e2b0e9b8ae64fb130084a609612fcdedafea7cb53234d3cb63",
+                "sha256:57ae20e1dc54b8f0805cda8681a5293b11a499d053df5bdae459d4ca8c67756c",
+                "sha256:d83928083b0fc1aa9f653b3bbc4c22558559adbd82689aa461f4ccb295669dd2",
+                "sha256:ef319beb88d8e75af61eb8f0fef01c6fe186d9a271718bcfaafc68c599af8c37"
             ],
             "markers": "os_name == 'macos'",
-            "version": "==8.4.1"
+            "version": "==8.5"
         },
         "pyobjc-framework-libdispatch": {
             "hashes": [
