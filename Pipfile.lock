@@ -190,16 +190,16 @@
         },
         "pyobjc-framework-cocoa": {
             "hashes": [
-                "sha256:118225562064d991bafb41d0913899d6b3d723984d1888cb7181e4dba63b22c2",
-                "sha256:197dd28668e786b55d7d4139afd85c285f780564ebbccc166e84a24be31de34f",
-                "sha256:3af8577acbd6b980d3b9270ec99bc0164f66ef8397351a72fcdee527f23c1a34",
-                "sha256:91fdc964acb4dee4d37ae81fb603d48397739dbbfcc1eadbe0cdafaa8144b6e6",
-                "sha256:cfbe038a0108ae1b45f8f7067af70af5811b8352d2dc3d86a7bcb4484ff5d56e",
-                "sha256:d117a1eb24fd317e9f63792ac6a8703ed899de5d42e8a861c7bf885625668c31",
-                "sha256:dc596bac0f5d424f67944e95b2d0d7c94a07c4166359d7b4a4d4ae4f8e112822"
+                "sha256:569bd3a020f64b536fb2d1c085b37553e50558c9f907e08b73ffc16ae68e1861",
+                "sha256:6ceba444282030be8596b812260e8d28b671254a51052ad778d32da6e17db847",
+                "sha256:7a7c160416696bf6035dfcdf0e603aaa52858d6afcddfcc5ab41733619ac2529",
+                "sha256:898359ac1f76eedec8aa156847682378a8950824421c40edb89391286e607dc4",
+                "sha256:b31d425aee8698cbf62b187338f5ca59427fa4dca2153a73866f7cb410713119",
+                "sha256:baa2947f76b119a3360973d74d57d6dada87ac527bab9a88f31596af392f123c",
+                "sha256:f46b2b161b8dd40c7b9e00bc69636c3e6480b2704a69aee22ee0154befbe163a"
             ],
             "markers": "os_name == 'macos'",
-            "version": "==8.4.1"
+            "version": "==8.5"
         },
         "pyobjc-framework-corebluetooth": {
             "hashes": [
