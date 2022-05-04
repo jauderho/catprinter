@@ -4,31 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-appnope = "*"
-autopep8 = "*"
-backcall = "*"
 bleak = "*"
-decorator = "*"
-jedi = "*"
-matplotlib-inline = "*"
 numpy = "*"
-opencv-contrib-python = "*"
-parso = "*"
-pexpect = "*"
-pickleshare = "*"
-prompt-toolkit = "*"
-ptyprocess = "*"
-pycodestyle = "*"
-Pygments = "*"
-pyobjc-core = {version = "*", os_name = "== 'macos'"}
-pyobjc-framework-Cocoa = {version = "*", os_name = "== 'macos'"}
-pyobjc-framework-CoreBluetooth = {version = "*", os_name = "== 'macos'"}
-pyobjc-framework-libdispatch = {version = "*", os_name = "== 'macos'"}
-toml = "*"
-traitlets = "*"
-wcwidth = "*"
+opencv-python = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3"
+python_version = "3.10"
