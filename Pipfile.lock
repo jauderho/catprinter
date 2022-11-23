@@ -26,11 +26,11 @@
         },
         "bleak": {
             "hashes": [
-                "sha256:18754811d42be6f36389612ac5e6774da23f30de43ce60da9be72ced800ea0e1",
-                "sha256:3bba56ca4ad81a5a6bfd15a3e7d3979c90102fd608a6a4f981e0cd5a9b23454d"
+                "sha256:31e92e6754379bb394b8544457c77ce09a8a7dbc5f9adf3119b34576c901ef1e",
+                "sha256:87845a96453c58c19031c735444a7b3156800534bcd3f23ba74e119e9ae3cd88"
             ],
             "index": "pypi",
-            "version": "==0.19.4"
+            "version": "==0.19.5"
         },
         "dbus-fast": {
             "hashes": [
