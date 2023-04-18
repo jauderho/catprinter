@@ -21,21 +21,13 @@
         ]
     },
     "default": {
-        "async-timeout": {
-            "hashes": [
-                "sha256:2163e1640ddb52b7a8c80d0a67a08587e5d245cc9c553a74a847056bc2976b15",
-                "sha256:8ca1e4fcf50d07413d66d1a5e416e42cfdf5851c981d679a09851a6853383b3c"
-            ],
-            "markers": "python_version >= '3.6'",
-            "version": "==4.0.2"
-        },
         "bleak": {
             "hashes": [
-                "sha256:31e92e6754379bb394b8544457c77ce09a8a7dbc5f9adf3119b34576c901ef1e",
-                "sha256:87845a96453c58c19031c735444a7b3156800534bcd3f23ba74e119e9ae3cd88"
+                "sha256:db599f5f100e252e9cdd4020c8657daca0371a3c697e87432abc702f3774cb4c",
+                "sha256:e1661f3d36fea54d15197297d285d1d646daf8decaa174a6bbca639bd1c0e555"
             ],
             "index": "pypi",
-            "version": "==0.19.5"
+            "version": "==0.20.1"
         },
         "dbus-fast": {
             "hashes": [
