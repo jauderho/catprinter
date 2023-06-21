@@ -1,5 +1,6 @@
 [project]
 name = "catprinter"
+version = "0.1.0"
 
 [build-system]
 requires = ["setuptools >= 40.6.0", "wheel"]
