@@ -2,5 +2,5 @@
 --extra-index-url https://www.piwheels.org/simple
 bleak==0.20.2
 dbus-fast==1.86.0; platform_system == 'Linux'
-numpy==1.25.1
+numpy==1.25.2
 opencv-python==4.8.0.74
