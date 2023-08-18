@@ -1,6 +1,6 @@
 -i https://pypi.org/simple
 --extra-index-url https://www.piwheels.org/simple
 bleak==0.20.2
-dbus-fast==1.91.2; platform_system == 'Linux'
+dbus-fast==1.91.4; platform_system == 'Linux'
 numpy==1.25.2
 opencv-python==4.8.0.76
