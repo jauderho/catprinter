@@ -27,6 +27,7 @@
                 "sha256:ce3106b7258212d92bb77be06f9301774f51f5bbc9f7cd50976ad794e9514dba"
             ],
             "index": "pypi",
+            "markers": "python_version >= '3.7' and python_version < '4.0'",
             "version": "==0.20.2"
         },
         "dbus-fast": {
@@ -94,6 +95,7 @@
                 "sha256:fd608e19c8d7c55021dffd43bfe5492fab8cc105cc8986f813f8c3c048b38760"
             ],
             "index": "pypi",
+            "markers": "python_version >= '3.9'",
             "version": "==1.25.2"
         },
         "opencv-python": {
@@ -107,6 +109,7 @@
                 "sha256:ba32cfa75a806abd68249699d34420737d27b5678553387fc5768747a6492147"
             ],
             "index": "pypi",
+            "markers": "python_version >= '3.6'",
             "version": "==4.8.0.76"
         }
     },
