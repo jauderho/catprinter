@@ -1,6 +1,6 @@
 -i https://pypi.org/simple
 --extra-index-url https://www.piwheels.org/simple
 bleak==0.22.2
-dbus-fast==2.23.0
+dbus-fast==2.24.0
 numpy==2.1.0
 opencv-python==4.10.0.84
