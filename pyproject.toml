@@ -1,7 +1,17 @@
 [project]
 name = "catprinter"
 version = "0.1.0"
+requires-python = ">=3.13"
+
+dependencies = [
+  "bleak",
+  "numpy",
+  "opencv-python",
+  #"awscli==1.16.14",
+]
 
 [build-system]
 requires = ["setuptools >= 40.6.0", "wheel"]
 build-backend = "setuptools.build_meta"
+
+
